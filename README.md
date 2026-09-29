@@ -30,7 +30,7 @@ This is proper dual illuminant calibration which means that your DNG file should
     [  0.000300,  0.004200,  0.820600 ]]
 ```
 
-## JSON Tunning File
+## JSON Tuning File
 In order to have auto white balance working properly, you will have to use imx585.json from this repository. CCMs have been recalculated for coefficients above, so whatever you are seeing on your screen should match the output of RAW converter.
 
 ### Example
